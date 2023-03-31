@@ -10,7 +10,7 @@ This weather application is built using Django, requests and openweathermap, her
 Clone the project
 
 ```bash
-  git clone https://github.com/Shivakumar1V/Django-Weather-Application
+  git clone https://github.com/hicham147/Django_Wather
 ```
 
 Install dependencies
