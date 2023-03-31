@@ -1,5 +1,8 @@
 #  Django Weather Application
 
+![Web capture_31-3-2023_223558_127 0 0 1](https://user-images.githubusercontent.com/100999539/229237164-98ee4ffb-06a5-4dc0-8f25-dc75c74cc9ee.jpeg)
+
+
 This weather application is built using Django, requests and openweathermap, here users can get weather information by entering the city name
 ## Requirements
 `api_key` is required to run this project, to get `api_key` follow the below steps
