@@ -19,7 +19,7 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
-* Now open `views.py` file which is in `home/views.py` and enter your **openweathermap** `api_key` in `api_key = "your api_key"` section and save the file
+* Now open `views.py` file which is in `watherApp/views.py` and enter your **openweathermap** `api_key` in `api_key = "your api_key"` section and save the file
 
 Run the below commands
 ```bash 
